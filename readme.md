@@ -124,7 +124,7 @@
 - [NodeJs Scraping with Puppeteer](https://learnscraping.com/nodejs-web-scraping-with-puppeteer/) - IMDB Scraping example.
 
 ## Related
-
+- [playwright](https://github.com/microsoft/playwright/) - Another puppeteer fork by Microsoft team.
 - [puppeteer-sharp](https://github.com/kblok/puppeteer-sharp) - Port of Puppeteer to .NET.
 - [foxr](https://github.com/deepsweet/foxr) - Node.js API to control Firefox. 🦊
 - [pyppeteer](https://github.com/miyakogi/pyppeteer) - Unofficial Python port of Puppeteer.
